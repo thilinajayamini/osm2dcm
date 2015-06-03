@@ -659,6 +659,7 @@ public class GeocoderConfig{
     {
       levelsForCity=new String[] {ADMIN_LEVEL_8,NEAREST_CITY_POINT};
       levelsForRegion=new String[] {ADMIN_LEVEL_4};
+      language="en";
     }
 
     //Таиланд
